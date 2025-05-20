@@ -7,5 +7,10 @@ It also include a tool for creating calculated variables.
 
 Results can be displayed, exported in various forats or added to a pptx-presentation. 
 
+Important:
+- Icon and image file must be kept in the same directory as the code file
+- Powerpoint template must be kept tin the same directory as the code file
+- PySimpleGui must ve version 
+
 The script is maintained by Christian Otto Ruge. 
 Reach out at cor@corals.no for questions or support. 
