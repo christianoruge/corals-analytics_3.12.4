@@ -10,7 +10,7 @@ Results can be displayed, exported in various forats or added to a pptx-presenta
 Important:
 - Icon and image file must be kept in the same directory as the code file
 - Powerpoint template must be kept tin the same directory as the code file
-- PySimpleGui must ve version 
+- The Package PySimpleGui must be version 4.60.5.0 (Later versions are licenced and not free to use)
 
 The script is maintained by Christian Otto Ruge. 
 Reach out at cor@corals.no for questions or support. 
