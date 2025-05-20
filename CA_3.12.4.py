@@ -1,7 +1,7 @@
 i#!/usr/bin/env python3.12.2
 # -*- coding: utf-8 -*-
 
-#CORals Analytics v.3.12.2
+#CORals Analytics v.3.12.4
 #This script is created by Christian Otto Ruge and CORals.
 #It is licenced under GNU GPL v.3.
 #https://www.corals.no
