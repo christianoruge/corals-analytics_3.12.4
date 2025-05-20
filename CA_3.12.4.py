@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.12.2
+i#!/usr/bin/env python3.12.2
 # -*- coding: utf-8 -*-
 
 #CORals Analytics v.3.12.2
@@ -11,7 +11,7 @@ import os
 from turtle import fd
 import pandas as pd
 import numpy as np
-import PySimpleGUI as sg
+import PySimpleGUI version 4.60.5.0 as sg
 import xlrd
 import xlsxwriter
 from pyprocessmacro import Process
